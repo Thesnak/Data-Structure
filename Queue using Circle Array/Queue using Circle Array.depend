@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587234697 source:c:\users\tarek\desktop\queue using circle array\main.cpp
+	<iostream>
+	<cassert>
+

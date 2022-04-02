@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1587069855 source:c:\users\tarek\desktop\stack pointer\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+
+1587069855 source:c:\users\tarek\desktop\bioinformatics-2-2\data-structure\data-structure\stack pointer\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+
